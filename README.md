@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
