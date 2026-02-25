@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
