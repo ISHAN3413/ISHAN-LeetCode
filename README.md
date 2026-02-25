@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0337-house-robber-iii) |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1020-number-of-enclaves](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1020-number-of-enclaves) |
 | [1302-deepest-leaves-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1046-last-stone-weight) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3838-weighted-word-mapping](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -306,18 +310,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1020-number-of-enclaves) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->
