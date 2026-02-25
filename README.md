@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1302-deepest-leaves-sum) |
 ## Math
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
