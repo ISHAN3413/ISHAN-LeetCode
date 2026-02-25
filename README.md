@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [2236-root-equals-sum-of-children](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1302-deepest-leaves-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [2236-root-equals-sum-of-children](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Math
 |  |
