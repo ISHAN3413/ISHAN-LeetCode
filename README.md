@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0257-binary-tree-paths) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0404-sum-of-left-leaves) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0695-max-area-of-island) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1020-number-of-enclaves) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0695-max-area-of-island) |
