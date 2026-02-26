@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0085-maximal-rectangle) |
