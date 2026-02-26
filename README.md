@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -446,4 +448,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
