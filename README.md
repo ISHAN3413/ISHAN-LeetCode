@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0221-maximal-square) |
+| [0312-burst-balloons](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0337-house-robber-iii) |
 | [0542-01-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0542-01-matrix) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0221-maximal-square) |
+| [0312-burst-balloons](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0695-max-area-of-island) |
