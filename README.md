@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
