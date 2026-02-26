@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
