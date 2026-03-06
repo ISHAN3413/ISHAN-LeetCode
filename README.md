@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0257-binary-tree-paths) |
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [3838-weighted-word-mapping](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
