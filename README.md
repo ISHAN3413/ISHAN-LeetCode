@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
