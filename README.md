@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0389-find-the-difference) |
 | [0848-shifting-letters](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0848-shifting-letters) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0287-find-the-duplicate-number) |
