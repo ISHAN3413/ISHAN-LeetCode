@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0066-plus-one) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0013-roman-to-integer) |
 | [0257-binary-tree-paths](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0848-shifting-letters](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0848-shifting-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
