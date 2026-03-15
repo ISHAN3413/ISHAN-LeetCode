@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
