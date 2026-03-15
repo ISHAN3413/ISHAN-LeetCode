@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0312-burst-balloons) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1009-complement-of-base-10-integer) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
