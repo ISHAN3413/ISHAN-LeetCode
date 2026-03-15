@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2733-neither-minimum-nor-maximum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2733-neither-minimum-nor-maximum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
