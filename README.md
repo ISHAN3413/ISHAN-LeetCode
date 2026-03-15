@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2404-most-frequent-even-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2460-apply-operations-to-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2460-apply-operations-to-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3819-rotate-non-negative-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3819-rotate-non-negative-elements) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
+| [2460-apply-operations-to-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Sorting
 |  |
