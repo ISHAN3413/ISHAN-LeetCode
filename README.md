@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0633-sum-of-square-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0845-longest-mountain-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
