@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1920-build-array-from-permutation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2088-count-fertile-pyramids-in-a-land) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1920-build-array-from-permutation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2460-apply-operations-to-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2460-apply-operations-to-an-array) |
