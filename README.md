@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2418-sort-the-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2418-sort-the-people) |
+| [2490-circular-sentence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2490-circular-sentence) |
 | [3110-score-of-a-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3110-score-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
