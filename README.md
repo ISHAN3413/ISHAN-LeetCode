@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2404-most-frequent-even-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2404-most-frequent-even-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2404-most-frequent-even-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
