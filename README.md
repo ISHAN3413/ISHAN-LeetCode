@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0645-set-mismatch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -598,4 +600,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
