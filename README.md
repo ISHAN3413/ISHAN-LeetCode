@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0326-power-of-three) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0389-find-the-difference) |
 | [0848-shifting-letters](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0848-shifting-letters) |
