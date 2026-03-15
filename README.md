@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0048-rotate-image) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0845-longest-mountain-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0845-longest-mountain-in-array) |
