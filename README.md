@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Binary Tree
 |  |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
