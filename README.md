@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -617,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3819-rotate-non-negative-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3819-rotate-non-negative-elements) |
 | [3838-weighted-word-mapping](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3417-zigzag-grid-traversal-with-skip](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
