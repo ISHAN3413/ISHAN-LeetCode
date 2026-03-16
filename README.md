@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0035-search-insert-position) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -762,4 +764,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
