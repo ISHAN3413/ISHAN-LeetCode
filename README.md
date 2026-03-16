@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2469-convert-the-temperature) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
