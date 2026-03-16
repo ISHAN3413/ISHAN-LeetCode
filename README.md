@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0290-word-pattern) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash
 |  |
