@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1929-concatenation-of-array) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2088-count-fertile-pyramids-in-a-land) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
