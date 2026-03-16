@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0848-shifting-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0415-add-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1920-build-array-from-permutation) |
