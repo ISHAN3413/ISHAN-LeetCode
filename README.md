@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2418-sort-the-people) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2103-rings-and-rods) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2418-sort-the-people) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
