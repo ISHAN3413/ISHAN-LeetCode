@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -779,4 +780,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
