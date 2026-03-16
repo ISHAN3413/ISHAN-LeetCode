@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2103-rings-and-rods) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2418-sort-the-people) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2000-reverse-prefix-of-word](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2103-rings-and-rods](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2103-rings-and-rods) |
+| [2351-first-letter-to-appear-twice](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2490-circular-sentence) |
 | [3110-score-of-a-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3110-score-of-a-string) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
