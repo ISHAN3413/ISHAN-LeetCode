@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0141-linked-list-cycle) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0273-integer-to-english-words) |
