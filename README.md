@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
