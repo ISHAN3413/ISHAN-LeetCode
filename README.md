@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2000-reverse-prefix-of-word](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Breadth-First Search
 |  |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2000-reverse-prefix-of-word](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2418-sort-the-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2490-circular-sentence) |
 | [3110-score-of-a-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3110-score-of-a-string) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
+| [2000-reverse-prefix-of-word](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2460-apply-operations-to-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Sorting
