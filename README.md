@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2000-reverse-prefix-of-word](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2103-rings-and-rods](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2103-rings-and-rods) |
+| [2278-percentage-of-letter-in-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2490-circular-sentence) |
