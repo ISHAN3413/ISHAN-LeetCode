@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0741-cherry-pickup) |
