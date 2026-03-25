@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1313-decompress-run-length-encoded-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1463-cherry-pickup-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1463-cherry-pickup-ii) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1323-maximum-69-number) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2591-distribute-money-to-maximum-children](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting Sort
