@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -826,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2591-distribute-money-to-maximum-children](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting Sort
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0561-array-partition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1854-maximum-population-year](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1854-maximum-population-year) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
