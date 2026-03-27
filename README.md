@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1854-maximum-population-year](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2418-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1710-maximum-units-on-a-truck](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2591-distribute-money-to-maximum-children](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting Sort
