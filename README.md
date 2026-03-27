@@ -605,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [2591-distribute-money-to-maximum-children](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Counting Sort
