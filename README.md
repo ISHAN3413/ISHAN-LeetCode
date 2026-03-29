@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0312-burst-balloons) |
 | [0324-wiggle-sort-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0334-increasing-triplet-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -841,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0605-can-place-flowers) |
