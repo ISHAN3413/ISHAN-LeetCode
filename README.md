@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1995-count-special-quadruplets](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2088-count-fertile-pyramids-in-a-land) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1995-count-special-quadruplets](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2103-rings-and-rods](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2103-rings-and-rods) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [1995-count-special-quadruplets](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1995-count-special-quadruplets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
