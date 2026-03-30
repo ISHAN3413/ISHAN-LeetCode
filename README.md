@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0337-house-robber-iii) |
 | [0376-wiggle-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0542-01-matrix) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0397-integer-replacement) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Two Pointers
 |  |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0397-integer-replacement) |
 | [0455-assign-cookies](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0605-can-place-flowers) |
