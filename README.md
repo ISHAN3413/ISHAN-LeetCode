@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2179-count-good-triplets-in-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Binary Tree
 |  |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3477-fruits-into-baskets-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3477-fruits-into-baskets-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3819-rotate-non-negative-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3819-rotate-non-negative-elements) |
 | [3838-weighted-word-mapping](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -833,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2179-count-good-triplets-in-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -980,4 +984,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2179-count-good-triplets-in-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
