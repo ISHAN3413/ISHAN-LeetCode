@@ -518,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2418-sort-the-people) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2460-apply-operations-to-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2418-sort-the-people) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2490-circular-sentence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2490-circular-sentence) |
 | [3110-score-of-a-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3110-score-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3838-weighted-word-mapping) |
