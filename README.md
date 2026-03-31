@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0611-valid-triangle-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0704-binary-search) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -801,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0826-most-profit-assigning-work](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0826-most-profit-assigning-work) |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0611-valid-triangle-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0645-set-mismatch) |
 | [0826-most-profit-assigning-work](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -888,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0826-most-profit-assigning-work](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0826-most-profit-assigning-work) |
