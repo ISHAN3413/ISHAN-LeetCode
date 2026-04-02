@@ -634,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0649-dota2-senate](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0848-shifting-letters) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0649-dota2-senate](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0826-most-profit-assigning-work](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0826-most-profit-assigning-work) |
@@ -1028,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0649-dota2-senate) |
 ## Ordered Set
 |  |
 | ------- |
