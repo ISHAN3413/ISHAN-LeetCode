@@ -10,7 +10,6 @@ public:
             if(m.second > m.first+1){
                 ans+=(m.second/(m.first+1))*(m.first +1);
                 if(m.second%(m.first+1)!=0){
-                    
                     ans+=(m.first +1);
                 }
             }
