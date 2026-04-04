@@ -6,7 +6,7 @@ public:
         vector<vector<int>> dp(i , vector<int>(j , -1));
         return f(i-1 , j-1 , s, p , dp);
     }
-    bool f(int i , int j , string s , string p , vector<vector<int>> &dp){
+    bool f(int i , int j , const string &s ,const string &p , vector<vector<int>> &dp){
         if(i<0 && j<0)return true;
         if(i<0){
             for(int k = j;k>=0 ; k--){
