@@ -2,7 +2,6 @@ class Solution {
 public:
     bool canCross(vector<int>& stones) {
         int n = stones.size();
-        if(n==1)return true;
         if(stones[1] != 1)return false;
         vector<vector<int>> dp(n , vector<int>(n+1,-1));
         return f(stones , 1 , 1,dp);
