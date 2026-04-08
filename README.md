@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1140-stone-game-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -994,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0848-shifting-letters](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0848-shifting-letters) |
+| [1140-stone-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1140-stone-game-ii) |
 | [1854-maximum-population-year](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
