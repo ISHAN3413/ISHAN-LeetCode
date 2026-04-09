@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2469-convert-the-temperature](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2591-distribute-money-to-maximum-children](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2460-apply-operations-to-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2460-apply-operations-to-an-array) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -1061,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## String Matching
 |  |
 | ------- |
