@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0875-koko-eating-bananas](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0826-most-profit-assigning-work](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0845-longest-mountain-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0826-most-profit-assigning-work](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0846-hand-of-straights) |
+| [0881-boats-to-save-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
@@ -955,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [0881-boats-to-save-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
