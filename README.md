@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1313-decompress-run-length-encoded-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0997-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -973,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1323-maximum-69-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
