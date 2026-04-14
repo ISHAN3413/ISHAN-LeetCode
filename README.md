@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0542-01-matrix) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0257-binary-tree-paths) |
+| [0473-matchsticks-to-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0473-matchsticks-to-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0498-diagonal-traverse) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0397-integer-replacement) |
+| [0473-matchsticks-to-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0645-set-mismatch) |
 | [0861-score-after-flipping-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1009-complement-of-base-10-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1009-complement-of-base-10-integer) |
@@ -1113,4 +1117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2179-count-good-triplets-in-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
