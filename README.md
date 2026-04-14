@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0045-jump-game-ii) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0257-binary-tree-paths) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0058-length-of-last-word) |
