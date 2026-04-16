@@ -634,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [1009-complement-of-base-10-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -1059,10 +1062,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Recursion
 |  |
 | ------- |
