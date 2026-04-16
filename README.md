@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0848-shifting-letters) |
 | [0860-lemonade-change](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [0870-advantage-shuffle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0870-advantage-shuffle) |
 | [0875-koko-eating-bananas](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0881-boats-to-save-people) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0826-most-profit-assigning-work](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0845-longest-mountain-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [0870-advantage-shuffle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0969-pancake-sorting](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0969-pancake-sorting) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0826-most-profit-assigning-work](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0846-hand-of-straights) |
+| [0870-advantage-shuffle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0969-pancake-sorting](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0969-pancake-sorting) |
@@ -984,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [0870-advantage-shuffle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0969-pancake-sorting](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0969-pancake-sorting) |
