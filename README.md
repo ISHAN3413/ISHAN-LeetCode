@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0473-matchsticks-to-square) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0393-utf-8-validation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0393-utf-8-validation) |
 | [0403-frog-jump](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -1057,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0413-arithmetic-slices) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash
 |  |
