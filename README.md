@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2179-count-good-triplets-in-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -937,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2706-buy-two-chocolates) |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2027-minimum-moves-to-convert-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2027-minimum-moves-to-convert-string) |
@@ -1052,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0848-shifting-letters](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1140-stone-game-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
@@ -1064,6 +1069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0413-arithmetic-slices) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Rolling Hash
 |  |
 | ------- |
