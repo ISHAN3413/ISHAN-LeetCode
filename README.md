@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0415-add-strings) |
+| [0553-optimal-division](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0553-optimal-division) |
 | [0633-sum-of-square-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0738-monotone-increasing-digits](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0738-monotone-increasing-digits) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0518-coin-change-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0553-optimal-division) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0639-decode-ways-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0542-01-matrix) |
+| [0553-optimal-division](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0553-optimal-division) |
 | [0561-array-partition](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
