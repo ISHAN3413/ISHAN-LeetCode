@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3477-fruits-into-baskets-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Monotonic Stack
 |  |
@@ -969,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1995-count-special-quadruplets](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1995-count-special-quadruplets) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
