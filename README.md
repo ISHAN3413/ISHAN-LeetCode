@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1323-maximum-69-number) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
