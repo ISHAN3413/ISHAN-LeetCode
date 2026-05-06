@@ -14,11 +14,15 @@ public:
     int goodNodes(TreeNode* root) {
         return f(root,root->val);
     }
-    int f(TreeNode* root, int &pre){
+    int f(TreeNode* root, int maxi){
         if(root==nullptr)return 0;
-        if(root->val >= pre){
-            return 1+f(root->left,root->val)+f(root->right,root->val);
+        int count = 0;
+        if(root->val >= maxi){
+            count = 1;
+            maxi = root->val;
         }
-        else return f(root->left,pre)+f(root->right,pre);
+        count+= f(root->left,maxi);
+        count+=f(root->right,maxi);
+        return count;
     }
 };
