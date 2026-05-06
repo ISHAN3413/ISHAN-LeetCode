@@ -14,7 +14,7 @@ public:
     int goodNodes(TreeNode* root) {
         return f(root,root->val);
     }
-    int f(TreeNode* root, int pre){
+    int f(TreeNode* root, int &pre){
         if(root==nullptr)return 0;
         if(root->val >= pre){
             return 1+f(root->left,root->val)+f(root->right,root->val);
