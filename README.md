@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0045-jump-game-ii) |
@@ -619,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -822,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0074-search-a-2d-matrix) |
