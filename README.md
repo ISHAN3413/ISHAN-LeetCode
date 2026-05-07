@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0473-matchsticks-to-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0980-unique-paths-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0980-unique-paths-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0969-pancake-sorting](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0969-pancake-sorting) |
+| [0980-unique-paths-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0980-unique-paths-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0997-find-the-town-judge) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0645-set-mismatch) |
 | [0861-score-after-flipping-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [0980-unique-paths-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0980-unique-paths-iii) |
 | [1009-complement-of-base-10-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-score-after-flipping-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1020-number-of-enclaves) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
