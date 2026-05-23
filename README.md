@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0897-increasing-order-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0778-swim-in-rising-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0826-most-profit-assigning-work](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0655-print-binary-tree](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0655-print-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1020-number-of-enclaves) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0741-cherry-pickup) |
+| [0778-swim-in-rising-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0826-most-profit-assigning-work](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0826-most-profit-assigning-work) |
@@ -789,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0778-swim-in-rising-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1046-last-stone-weight](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1046-last-stone-weight) |
 ## Simulation
 |  |
@@ -823,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -848,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0741-cherry-pickup) |
+| [0778-swim-in-rising-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-score-after-flipping-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0931-minimum-falling-path-sum) |
