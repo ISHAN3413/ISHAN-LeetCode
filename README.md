@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-count-good-triplets-in-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2179-count-good-triplets-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2326-spiral-matrix-iv](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2404-most-frequent-even-element](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2326-spiral-matrix-iv](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2460-apply-operations-to-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -875,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2088-count-fertile-pyramids-in-a-land](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2088-count-fertile-pyramids-in-a-land) |
+| [2326-spiral-matrix-iv](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
