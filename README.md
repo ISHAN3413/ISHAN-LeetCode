@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0127-word-ladder) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0130-surrounded-regions) |
