@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0415-add-strings) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0376-wiggle-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0397-integer-replacement) |
