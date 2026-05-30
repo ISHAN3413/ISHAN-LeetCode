@@ -3,9 +3,19 @@ public:
     int countSubstrings(string s) {
         int ans = 0;
         for(int i = 0;i<s.length();i++){
-            ans+=f(s , string(1,s[i]) ,i+1);
+            ans+=e(s,i,i);
+            ans+=e(s,i,i+1);
         }
         return ans;
+    }
+    int e(string &s , int l , int r){
+        int cnt = 0;
+        while(l>=0 && r<s.length()&&s[l]==s[r]){
+            cnt++;
+            l--;
+            r++;
+        }
+        return cnt;
     }
     int f(string &s , string curr , int i ){
         int cnt = p(curr)?1:0;
