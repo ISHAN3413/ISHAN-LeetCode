@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0189-rotate-array) |
+| [0233-number-of-digit-one](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0326-power-of-three) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0312-burst-balloons) |
@@ -1148,6 +1150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0326-power-of-three) |
