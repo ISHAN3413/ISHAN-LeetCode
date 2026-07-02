@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0688-knight-probability-in-chessboard](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0741-cherry-pickup](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0741-cherry-pickup) |
