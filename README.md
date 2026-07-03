@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0688-knight-probability-in-chessboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0741-cherry-pickup) |
 | [0799-champagne-tower](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0799-champagne-tower) |
 | [0845-longest-mountain-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0845-longest-mountain-in-array) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0733-flood-fill) |
+| [0740-delete-and-earn](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0781-rabbits-in-forest) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0645-set-mismatch) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0740-delete-and-earn](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0740-delete-and-earn) |
 | [0781-rabbits-in-forest](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0846-hand-of-straights) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
