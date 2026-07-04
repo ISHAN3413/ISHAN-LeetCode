@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0396-rotate-function](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0415-add-strings) |
 | [0553-optimal-division](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0553-optimal-division) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0413-arithmetic-slices) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0377-combination-sum-iv) |
 | [0393-utf-8-validation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0393-utf-8-validation) |
+| [0396-rotate-function](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0414-third-maximum-number) |
