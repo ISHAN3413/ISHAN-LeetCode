@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0799-champagne-tower) |
 | [0845-longest-mountain-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0931-minimum-falling-path-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0881-boats-to-save-people) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0912-sort-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0645-set-mismatch](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0645-set-mismatch) |
 | [0861-score-after-flipping-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0980-unique-paths-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0980-unique-paths-iii) |
 | [1009-complement-of-base-10-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
