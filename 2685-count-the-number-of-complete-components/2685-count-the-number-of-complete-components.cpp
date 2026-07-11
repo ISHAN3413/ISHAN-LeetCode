@@ -1,33 +1,43 @@
 class Solution {
 public:
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
-        int ans = 0;
-        vector<vector<int>>hash(n);
-        unordered_map<string ,int> mp;
-        for(int i = 0;i<n;i++){
-            hash[i].push_back(i);
-        }
-
+        vector<vector<int>> gr(n);
         for(const auto &a:edges){
-            hash[a[0]].push_back(a[1]);
-            hash[a[1]].push_back(a[0]);
+            int u = a[0],v=a[1];
+            gr[u].push_back(v);
+            gr[v].push_back(u);
         }
-
+        vector<bool>visi(n);
+        int ans = 0;
         for(int i = 0;i<n;i++){
-            vector<int> nei = hash[i];
-            sort(nei.begin(),nei.end());
+            if(!visi[i]){
+                vector<int>compo;
+                queue<int> q;
+                q.push(i);
+                visi[i] = true;
+                while(!q.empty()){
+                    int curr = q.front();
+                    q.pop();
+                    compo.push_back(curr);
+                    for(int nei:gr[curr]){
+                        if(!visi[nei]){
+                            visi[nei] = true;
+                            q.push(nei);
+                        }
+                    }
+                }
 
-            string key = "";
+                bool iscomp = true;
 
-            for(int j = 0;j<nei.size();j++){
-                key = key + to_string(nei[j]) + ",";
+                for(int node:compo){
+                    if(gr[node].size()!=compo.size()-1){
+                        iscomp = false;
+                        break;
+                    }
+                }
+                if(iscomp)ans++;
+
             }
-            mp[key]++;
-        }
-        
-        for(const auto &a:mp){
-            int size = count(a.first.begin() , a.first.end() , ',');
-            if(size == a.second)ans++;
         }
         return ans;
     }
