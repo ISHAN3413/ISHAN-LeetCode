@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0131-palindrome-partitioning) |
