@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1260-shift-2d-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0566-reshape-the-matrix) |
+| [1260-shift-2d-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -958,6 +960,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1463-cherry-pickup-ii) |
