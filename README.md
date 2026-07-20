@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0741-cherry-pickup) |
+| [0764-largest-plus-sign](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0764-largest-plus-sign) |
 | [0799-champagne-tower](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0799-champagne-tower) |
 | [0845-longest-mountain-in-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0741-cherry-pickup) |
+| [0764-largest-plus-sign](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0764-largest-plus-sign) |
 | [0778-swim-in-rising-water](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
