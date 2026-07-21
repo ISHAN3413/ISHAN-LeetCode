@@ -823,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2446-determine-if-two-events-have-conflict](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2490-circular-sentence](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2490-circular-sentence) |
 | [3110-score-of-a-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3110-score-of-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3838-weighted-word-mapping](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
@@ -1111,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1995-count-special-quadruplets) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
