@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Monotonic Stack
 |  |
@@ -1116,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Greedy
 |  |
 | ------- |
