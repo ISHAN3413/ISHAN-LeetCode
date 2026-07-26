@@ -1,48 +1,44 @@
 class Solution {
 public:
-    void merge(vector<int>&nums,int st,int mid,int end){
-        vector<int>temp;
-        int i = st;
-        int j = mid+1;
-
-        while(i<=mid &&j<=end){
-            if(nums[i]>=nums[j]){
-                temp.push_back(nums[j]);
-                j++;
+    vector<int> sortArray(vector<int>& nums) {
+     mergesort(nums,0,nums.size()-1);
+     return nums;
+    }
+    void merge(vector<int>&nums , int left , int mid ,int right){
+        if(left>=right)return;
+        vector<int> temp;
+        int l = left;
+        int r = mid+1;
+        while(l<=mid && r<=right){
+            if(nums[l]<nums[r]){
+                temp.push_back(nums[l]);
+                l++;
             }
             else{
-                temp.push_back(nums[i]);
-                i++;
+                temp.push_back(nums[r]);
+                r++;
             }
         }
-
-        while(i<=mid){
-            temp.push_back(nums[i]);
-            i++;
+        while(l<=mid){
+            temp.push_back(nums[l]);
+            l++;
         }
-        while(j<=end){
-            temp.push_back(nums[j]);
-            j++;
-        }
-
-        for(int i = 0;i<temp.size();i++){
-            nums[i+st] = temp[i];
+        while(r<=right){
+            temp.push_back(nums[r]);
+            r++;
         }
 
-
-    }
-    void mergesort (vector<int>&nums , int st , int end){
-        if(st<end){
-            int mid = st+((end-st)/2);
-            mergesort(nums,st,mid);
-            mergesort(nums,mid+1,end);
-
-            merge(nums,st,mid,end);
+        for(int i = left;i<=right;i++){
+            nums[i] = temp[i-left];
         }
     }
-    vector<int> sortArray(vector<int>& nums) {
-        mergesort(nums,0,nums.size()-1);
-        return nums;
+    void mergesort(vector<int>&nums , int l,int r){
+        if(l>=r)return;
+        int mid = l+(r-l)/2;
+
+        mergesort(nums,l,mid);
+        mergesort(nums,mid+1,r);
+        merge(nums,l,mid,r);
+        return ;
     }
-    
 };
