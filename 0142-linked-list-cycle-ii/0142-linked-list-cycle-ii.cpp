@@ -9,25 +9,25 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        if(head == nullptr || head->next == nullptr)return nullptr;
+        if(head==nullptr || head->next==nullptr)return nullptr;
         ListNode* temp1 = head;
         ListNode* temp2 = head;
-        bool detectnode = false;
-        while(temp1!=nullptr && temp1->next!= nullptr){
-            temp1 = temp1->next->next;
-            temp2 = temp2->next;
+        bool havenode = false;
+        while(temp1!=nullptr && temp1->next!=nullptr){
+            temp1=temp1->next->next;
+            temp2=temp2->next;
             if(temp1==temp2){
-                detectnode = true;
+                havenode = true;
                 break;
             }
         }
-        if(detectnode){
+        if(havenode){
             temp1 = head;
-                while(temp1!=temp2){
-                    temp1 = temp1->next;
-                    temp2 = temp2->next;
-                }
-                return temp1;
+            while(temp1!=temp2){
+                temp1 = temp1->next;
+                temp2=temp2->next;
+            }
+            return temp1;
         }
         return nullptr;
     }
