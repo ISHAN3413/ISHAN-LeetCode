@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0553-optimal-division) |
 | [0633-sum-of-square-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0650-2-keys-keyboard) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0473-matchsticks-to-square) |
+| [0486-predict-the-winner](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0542-01-matrix) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0498-diagonal-traverse) |
@@ -895,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1140-stone-game-ii) |
 ## Heap (Priority Queue)
@@ -1284,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Combinatorics
