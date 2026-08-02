@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0542-01-matrix) |
 | [0553-optimal-division](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0576-out-of-boundary-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0639-decode-ways-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0639-decode-ways-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0583-delete-operation-for-two-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0639-decode-ways-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0639-decode-ways-ii) |
 | [0647-palindromic-substrings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0649-dota2-senate) |
