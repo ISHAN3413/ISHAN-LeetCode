@@ -1376,4 +1376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0912-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
