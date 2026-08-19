@@ -1421,4 +1421,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1729-find-followers-count) |
+| [1757-recyclable-and-low-fat-products](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
