@@ -1418,4 +1418,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1661-average-time-of-process-per-machine](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1667-fix-names-in-a-table) |
+| [1683-invalid-tweets](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
