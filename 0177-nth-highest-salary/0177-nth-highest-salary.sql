@@ -4,9 +4,9 @@ BEGIN
       # Write your MySQL query statement below.
       
          select distinct salary from (
-        select salary , dense_rank() over (order by salary desc) as rnk from Employee
-      ) as ranking
-      where rnk = N
+            select salary , DENSE_RANK() over( order by salary desc) as rnk from Employee 
+         ) rnked
+         where rnk = N
       
      
         
