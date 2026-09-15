@@ -6,36 +6,35 @@ public:
         queue<pair<pair<int,int>,int>> q;
         vector<vector<int>> vis(n,vector<int>(m,0));
         int cnt = 0;
+        int tmax = 0;
         for(int i = 0;i<n;i++){
             for(int j = 0;j<m;j++){
                 if(grid[i][j]==2){
                     q.push({{i,j},0});
-                    vis[i][j]=1;
+                    vis[i][j] = 1;
                 }
                 else if(grid[i][j]==1){
                     cnt++;
                 }
             }
         }
-        int tmax = 0;
-        int a[]={-1 , 0,1,0};
-        int b[]={0,1,0,-1};
+        int d[]={-1 , 0 , 1 ,0};
+        int k[]={0 , 1 , 0 , -1};
         while(!q.empty()){
             int t = q.front().second;
             int r = q.front().first.first;
             int c = q.front().first.second;
-            tmax = max(t,tmax);
             q.pop();
             for(int i = 0;i<4;i++){
-                int nrow = r+a[i];
-                int ncol = c+b[i];
-                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && grid[nrow][ncol]==1 && vis[nrow][ncol]==0){
-                    q.push({{nrow , ncol} , t+1});
-                    vis[nrow][ncol]=1;
+                int nr = r+d[i];
+                int nc = c+k[i];
+                tmax = max(t , tmax);
+                if(nr>=0 && nc>=0 && nr<n && nc<m && grid[nr][nc]==1 && vis[nr][nc]==0){
+                    q.push({{nr,nc},t+1});
+                    vis[nr][nc] = 1;
                     cnt--;
                 }
             }
-
         }
         if(cnt>0)return -1;
         return tmax;
