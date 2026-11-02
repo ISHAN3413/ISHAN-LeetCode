@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -1048,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0397-integer-replacement) |
 | [0773-sliding-puzzle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0773-sliding-puzzle) |
