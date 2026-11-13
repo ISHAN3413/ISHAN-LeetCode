@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [0991-broken-calculator](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0991-broken-calculator) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1323-maximum-69-number) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1048-longest-string-chain) |
+| [1137-n-th-tribonacci-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -1061,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0509-fibonacci-number) |
 | [0773-sliding-puzzle](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/0773-sliding-puzzle) |
+| [1137-n-th-tribonacci-number](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ISHAN3413/ISHAN-LeetCode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Two Pointers
 |  |
